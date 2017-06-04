@@ -1,0 +1,5 @@
+- Sagas are like event handling. They can constantly listen or be triggered based on the event. 
+- Routes: params can be optional with parantheses. for example: route-name(/:id); to enforce the param, just leave out the parantheses. E.g. route-name/:id
+- isomorphic-fetch does promise based REST calls. 
+- React-bootstrap library available. 
+- Loopback is an API server with more docs and GUI available in server
